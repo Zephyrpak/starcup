@@ -20,6 +20,9 @@
     RiotLaserShield: 2
     RiotBulletShield: 2
     RadioHandheldSecurity: 5
+    Bola: 4 # Starcup - Added bolas to the SecTech
+    ClothingHeadHelmetBasic: 3 # Starcup - Added helmets to the SecTech
+    EmergencyMedipen: 4 # Starcup- Added e-pens to SecTech. Meant to encourage Security to be first responders
   # security officers need to follow a diet regimen!
   contrabandInventory:
     WeaponMeleeNeedle: 2
